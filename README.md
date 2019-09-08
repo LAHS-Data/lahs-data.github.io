@@ -1,5 +1,5 @@
 # LAHS Data Analysis Club
-Official code for the LAHS Data website.
+Official code for the LAHS Data 2019 website.
 
 > Online at https://lahsdata.ml
 
