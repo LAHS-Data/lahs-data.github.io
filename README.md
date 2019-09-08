@@ -1,6 +1,4 @@
 # LAHS Data Analysis Club
-Want to be part of our team in a startup like environment? Message us on [Slack](https://slack.com/signin).
-
 Official code for the LAHS Data website.
 
 > Online at https://lahsdata.ml
@@ -10,5 +8,7 @@ At our core, we beleive that data offers unparalleled insights into our world's 
 
 ### Official Website
 This website is developed in html and hosted on Github Pages. Live changes to this repository will be updated on the main website.
+
+> Want to be part of our team in a startup like environment? Message us on [Slack](https://slack.com/signin).
 
 <img src="./images/ScreenShot.png">
