@@ -1,0 +1,18 @@
+.navbar-brand {
+    font-weight: 700;
+}
+
+.nav-link {
+    color: rgb(50, 50, 50) !important;
+    transition: all .2s;
+}
+
+.nav-link:hover {
+    background: rgb(250, 250, 250);
+    border-radius: 25px;
+    transform: scale(1.1);
+}
+
+.jumbotron-fluid {
+    background: #ffffff;
+}

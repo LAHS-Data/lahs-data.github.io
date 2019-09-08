@@ -20,24 +20,44 @@
 	<!-- Animate CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
+	<link rel="stylesheet" href="./main.css">
+
 </head>
 
 <body>
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a class="navbar-brand" href="#">Navbar</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-			aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-			<div class="navbar-nav">
-				<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-				<a class="nav-item nav-link" href="#">Features</a>
-				<a class="nav-item nav-link" href="#">Pricing</a>
-				<a class="nav-item nav-link disabled" href="#">Disabled</a>
+
+	<nav class="navbar navbar-expand-lg navbar-light shadow-sm animated fast slideInDown">
+		<div class="row col-lg-9 mx-auto">
+			<a class="navbar-brand" href="/">
+				<img src="./images/icon.png" width="25" height="25" alt="" class="mr-1 mb-1">
+				LAHS DATA
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+				aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item mr-1">
+						<a class="nav-link" href="#"><i class="fab fa-github"></i> Github</a>
+					</li>
+					<li class="nav-item mr-1">
+						<a class="nav-link" href="#"><i class="fab fa-slack"></i> Slack</a>
+					</li>
+					<li class="nav-item mr-1">
+						<a class="nav-link" href="#"><i class="fab fa-twitter"></i> Twitter</a>
+					</li>
+				</ul>
 			</div>
 		</div>
 	</nav>
+
+	<div class="jumbotron jumbotron-fluid shadow-sm">
+		<div class="container col-lg-8">
+			<h1 class="display-4">&lt;Our Team/&gt;</h1>
+			<p class="lead">$ A team of passionate individuals who work hard to solve real world problems with data.</p>
+		</div>
+	</div>
 
 	<noscript>
 		<strong>
