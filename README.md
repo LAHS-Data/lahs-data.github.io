@@ -1,5 +1,6 @@
 # LAHS Data Analysis Club
 > Want to be part of our team in a startup like environment? Message us on [Slack](https://slack.com/signin).
+
 Official code for the LAHS Data website.
 
 > Online at https://lahsdata.ml
