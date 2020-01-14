@@ -3,47 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/post/placeholder-text/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/hugo-authors/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/post/markdown-syntax/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/authors/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/authors/ben-falkenburg-and-alexander-mcdowell/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/authors/michael-kroyan/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <loc>https://lahsdata.ml/post/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://lahsdata.ml/authors/ben-falkenburg/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://lahsdata.ml/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lahsdata.ml/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lahsdata.ml/authors/hugo-authors/</loc>
   </url>
   
 </urlset>

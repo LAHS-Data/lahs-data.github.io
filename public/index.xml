@@ -1,62 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LAHS Data</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Hugo Novela</description>
+    <title>LAHS Data Analysis Club</title>
+    <link>https://lahsdata.ml/</link>
+    <description>Recent content on LAHS Data Analysis Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lahsdata.ml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>(Will be online in 1-2 weeks) &#34;iTollbooth - Problems and Potential</title>
+      <link>https://lahsdata.ml/post/placeholder-text/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://lahsdata.ml/post/placeholder-text/</guid>
+      <description>Check out this document later for more info.</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>(Will be online in 1-2 weeks) The effects of risk and networking on spending</title>
+      <link>https://lahsdata.ml/post/markdown-syntax/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <guid>https://lahsdata.ml/post/markdown-syntax/</guid>
+      <description>This article will offer an explanation and analysis of how different risk-taking tools and networks (ie: trading, prize-incentives) influence the spending and trading habits of high-schoolers.</description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>https://example.com/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <title>Ocean Biodiversity and Economy</title>
+      <link>https://lahsdata.ml/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://lahsdata.ml/post/emoji-support/</guid>
+      <description>Abstract
+UNCLOS (United Nations Convention on the Law Of the Sea) has been in force since the period between 1973 and 1982. It is a treaty signed with nearly every nation on earth (excepting some landlocked global powers) in order to regulate the economic affairs of its member states given oceanic rights.
+However, despite the widespread global effect UNCLOS has had on geopolitical relationships, its effect on the environment is less well known.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://lahsdata.ml/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-Nulla vitae elit libero, a pharetra augue.</description>
+      <guid>https://lahsdata.ml/about/</guid>
+      <description>We are a club that emphasizes the potential and application of data to the real world.
+Over the school year, we develop, test and then report on multiple projects that emphasize how data can be collected and used responsibly in the modern world.
+Keep up with this site for more news on what we do!</description>
     </item>
     
   </channel>

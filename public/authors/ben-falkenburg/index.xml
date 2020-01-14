@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Falkenburg on LAHS Data Analysis Club</title>
+    <link>https://lahsdata.ml/authors/ben-falkenburg/</link>
+    <description>Recent content in Ben Falkenburg on LAHS Data Analysis Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lahsdata.ml/authors/ben-falkenburg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocean Biodiversity and Economy</title>
+      <link>https://lahsdata.ml/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/post/emoji-support/</guid>
+      <description>Abstract
+UNCLOS (United Nations Convention on the Law Of the Sea) has been in force since the period between 1973 and 1982. It is a treaty signed with nearly every nation on earth (excepting some landlocked global powers) in order to regulate the economic affairs of its member states given oceanic rights.
+However, despite the widespread global effect UNCLOS has had on geopolitical relationships, its effect on the environment is less well known.</description>
+    </item>
+    
+  </channel>
+</rss>

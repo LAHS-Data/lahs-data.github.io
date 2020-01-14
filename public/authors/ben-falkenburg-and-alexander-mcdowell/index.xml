@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Falkenburg and Alexander McDowell on LAHS Data Analysis Club</title>
+    <link>https://lahsdata.ml/authors/ben-falkenburg-and-alexander-mcdowell/</link>
+    <description>Recent content in Ben Falkenburg and Alexander McDowell on LAHS Data Analysis Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lahsdata.ml/authors/ben-falkenburg-and-alexander-mcdowell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Will be online in 1-2 weeks) The effects of risk and networking on spending</title>
+      <link>https://lahsdata.ml/post/markdown-syntax/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/post/markdown-syntax/</guid>
+      <description>This article will offer an explanation and analysis of how different risk-taking tools and networks (ie: trading, prize-incentives) influence the spending and trading habits of high-schoolers.</description>
+    </item>
+    
+  </channel>
+</rss>
