@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on LAHS Data Analysis Club</title>
+    <link>https://lahsdata.ml/authors/</link>
+    <description>Recent content in Authors on LAHS Data Analysis Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lahsdata.ml/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ben Falkenburg and Alexander McDowell</title>
+      <link>https://lahsdata.ml/authors/ben-falkenburg-and-alexander-mcdowell/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/authors/ben-falkenburg-and-alexander-mcdowell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kroyan</title>
+      <link>https://lahsdata.ml/authors/michael-kroyan/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/authors/michael-kroyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Falkenburg</title>
+      <link>https://lahsdata.ml/authors/ben-falkenburg/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/authors/ben-falkenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Authors</title>
+      <link>https://lahsdata.ml/authors/hugo-authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/authors/hugo-authors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
