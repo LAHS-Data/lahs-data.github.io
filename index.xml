@@ -6,38 +6,51 @@
     <description>Recent content on LAHS Data Analysis Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lahsdata.ml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Where the money goes -- Tracking funds and bringing club publicity to LAHS</title>
+      <link>https://lahsdata.ml/post/clubhub/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lahsdata.ml/post/clubhub/</guid>
+      <description>[Note for Readers]
+Mica will be placing a personal statement in this article about some of the applications/challenges of this project! Stay tuned
+Link to repository: https://github.com/MicaHorton/STEAM-Repository</description>
+    </item>
+    
+    <item>
       <title>(Will be online in 1-2 weeks) &#34;iTollbooth - Problems and Potential</title>
-      <link>https://lahsdata.ml/post/placeholder-text/</link>
+      <link>https://lahsdata.ml/post/itollbooth/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lahsdata.ml/post/placeholder-text/</guid>
-      <description>Check out this document later for more info.</description>
+      <guid>https://lahsdata.ml/post/itollbooth/</guid>
+      <description>Abstract
+Check out this document later for more info.</description>
     </item>
     
     <item>
       <title>(Will be online in 1-2 weeks) The effects of risk and networking on spending</title>
-      <link>https://lahsdata.ml/post/markdown-syntax/</link>
+      <link>https://lahsdata.ml/post/lacoin/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lahsdata.ml/post/markdown-syntax/</guid>
-      <description>This article will offer an explanation and analysis of how different risk-taking tools and networks (ie: trading, prize-incentives) influence the spending and trading habits of high-schoolers.</description>
+      <guid>https://lahsdata.ml/post/lacoin/</guid>
+      <description>Abstract
+This article focuses on one of the oldest and most pivotal of our club&#39;s projects. Once completed, this app will process data on everything from the risk and profitting patterns of teens at LAHS, to popularity trends of school events. Stay online for more updates here!</description>
     </item>
     
     <item>
       <title>Ocean Biodiversity and Economy</title>
-      <link>https://lahsdata.ml/post/emoji-support/</link>
+      <link>https://lahsdata.ml/post/unclos/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lahsdata.ml/post/emoji-support/</guid>
+      <guid>https://lahsdata.ml/post/unclos/</guid>
       <description>Abstract
-UNCLOS (United Nations Convention on the Law Of the Sea) has been in force since the period between 1973 and 1982. It is a treaty signed with nearly every nation on earth (excepting some landlocked global powers) in order to regulate the economic affairs of its member states given oceanic rights.
-However, despite the widespread global effect UNCLOS has had on geopolitical relationships, its effect on the environment is less well known.</description>
+UNCLOS (United Nations Convention on the Law Of the Sea) has been in force since its 9 year-long ratification, starting in the early 70s. It is a treaty signed with nearly every nation on earth (the US being a big exception) in order to regulate the oceanic affairs of its member states. These include military and political activites.
+UNCLOS has been groundbreaking in creating a new legal code for the sea, desigating our oceans (rightfully) as the Common Heritage of mankind.</description>
     </item>
     
     <item>
@@ -46,8 +59,9 @@ However, despite the widespread global effect UNCLOS has had on geopolitical rel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lahsdata.ml/about/</guid>
-      <description>We are a club that emphasizes the potential and application of data to the real world.
-Over the school year, we develop, test and then report on multiple projects that emphasize how data can be collected and used responsibly in the modern world.
+      <description>Greetings, and welcome to the site!
+We are a club that emphasizes the potential and application of data in the real world.
+Over the school year, we develop, test and report on multiple projects that emphasize how data can be collected and used responsibly in our school and global communities.
 Keep up with this site for more news on what we do!</description>
     </item>
     
