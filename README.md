@@ -13,3 +13,4 @@ At our core, we beleive that data offers unparalleled insights into our world's 
 - Gabriel A  (https://github.com/Riderfighter)
 - Egor Cherkashin  (https://github.com/EgorCherkashin)
 - Dylan Chan  (https://github.com/dylan-chan18)
+- Dylan Wong (https://github.com/Dozd21)
