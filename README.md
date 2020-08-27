@@ -5,7 +5,7 @@
 At our core, we beleive that data offers unparalleled insights into our world's most pressing problems. We generate percise insights for schools, policy makers, and those who count on us to make crutial decisions.
 
 ## Members:
-- Alexander Mcdowell → https://github.com/AlexanderMcDowell
+- Alexander Mcdowell (https://github.com/AlexanderMcDowell)
 - Ben Falkenburg → https://github.com/Peter-Pseudonym
 - Mica Horton --> https://github.com/micahorton'
 - Yohan Guyomard --> https://github.com/yohandev
