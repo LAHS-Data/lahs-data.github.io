@@ -20,4 +20,6 @@ At our core, we beleive that data offers unparalleled insights into our world's 
 - Kevin Wang  (https://github.com)
 - Matthew Lin  (https://github.com)
 
+(+ and more!)
+
 ## Projects:
